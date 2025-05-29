@@ -1,0 +1,40 @@
+.section_text{
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    background-color: transparent;
+    
+}.ul_lista{
+display: flex;
+justify-content: left;
+width: 60%;
+padding-top: 2.5%;
+gap: 4%;
+}
+.li_botao1{
+    font-weight: bold;
+    border-bottom: 2px solid;
+    padding-bottom: 4px;
+}
+form{
+    display: flex;
+    justify-content: center;
+    padding: 5%;
+}
+.div_pesquisa{
+display: flex;
+gap: 50rem;
+border: 1px solid;
+border-radius: 8px;
+padding: 24px;
+height: 57px;
+align-items: center;
+}
+
+.cartaz_principal{
+    display: flex;
+    size: 49px;
+    line-height: 120%;
+    background-color: transparent;
+    font-weight: 400;
+}
